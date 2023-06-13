@@ -4,3 +4,4 @@ O objetivo foi criar uma aplicação para um serviço de streaming, onde os usu�
 Os dados do website foram requisitados da seguinte API: https://developer.themoviedb.org/docs
 
 <img src="C:\Users\ferna\repos\desafios-cubos\cubos-flix\cubos-flix-light.png" alt="cubos flix">
+"C:\Users\ferna\repos\desafios-cubos\cubos-flix\cubos-flix-light.png"
